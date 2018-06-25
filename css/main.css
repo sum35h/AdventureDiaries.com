@@ -1,0 +1,77 @@
+/*index.html*/
+/*change the carousel slideshow size */
+.carousel-inner{
+	width: 100%;
+	max-height: 450px !important;
+}
+
+.carousel-inner > .item > img{
+	width: 100%;
+	height: 440px;
+	margin: 0 auto;
+}
+
+/*category image size*/
+.category{
+	width: 50px;
+	height: 50px;
+}
+
+/*packages.html*/
+.packagesBorder{
+	border: 2px solid whitesmoke;
+}
+
+/*packagesDeails img size*/
+.packagesDetails{
+	width: 20px;
+	height:20px;
+}
+
+/*places.html*/
+.placesLogo{
+	width: 30px;
+	height: 30px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
