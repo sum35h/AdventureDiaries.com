@@ -74,71 +74,74 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col">
-              <div class="thumbnail">
-                <div class="caption">
-                  <h3>Summary</h3>
-                  <p> <b>Altitude:</b> 2134 meters (6800feet)</p>
-                  <p> <b>Population :</b> 132lakhs</p>
-                  <p> <b>People:</b> Nepalese,Lepchas,Bhutias</p>
-                  <p> <b>Religion:</b> Hinduism,Buddhism,Chirstianity</p>
-                  <p> <b>Climate:</b> Temperate</p>
-                  <p> <b>Average Rainfall:</b> 370 cms annual</p>
-                  <p> <b>Summer Temperature:</b> Max 25°C/Min 20°C</p>
-                  <p> <b>Winter Temperature:</b> Max 7°C/Min -2°C</p>
-                  <p> <b>Best Season:</b> March-June &amp; Sept-Dec</p>
+            </div>
+            <div class="row">
+              <div class="col">
+                <div class="thumbnail">
+                  <div class="caption">
+                    <h3>Summary</h3>
+                    <p> <b>Altitude:</b> 2134 meters (6800feet)</p>
+                    <p> <b>Population :</b> 132lakhs</p>
+                    <p> <b>People:</b> Nepalese,Lepchas,Bhutias</p>
+                    <p> <b>Religion:</b> Hinduism,Buddhism,Chirstianity</p>
+                    <p> <b>Climate:</b> Temperate</p>
+                    <p> <b>Average Rainfall:</b> 370 cms annual</p>
+                    <p> <b>Summer Temperature:</b> Max 25°C/Min 20°C</p>
+                    <p> <b>Winter Temperature:</b> Max 7°C/Min -2°C</p>
+                    <p> <b>Best Season:</b> March-June &amp; Sept-Dec</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="thumbnail">
+                    <div class="caption">
+                      <h3>Culture</h3>
+                      <p>The culture of Darjeeling, India, is quite diverse and
+                        unique. The two predominant religions are Hinduism and
+                        Vajrayana Buddhism. Dashain, Tihar, Buddha Jayanti,
+                        Christmas, Holi, Ram Navami, etc. are the main
+                        festivals. Besides, the diverse ethnic populace of the
+                        town also celebrates several local festivals. Buddhist
+                        ethnic groups celebrate new year called Losar in
+                        January/February, Maghe Sankranti, Chotrul Duchen, and
+                        Tendong Lho Rumfaat. Deusi and Bhaileni are songs
+                        performed by men and women, respectively, during the
+                        festival of Tihar. All these provide a "regional
+                        distinctness" of Darjeeling's local culture from the
+                        rest of India. </p>
+                    </div>
+                    <p> </p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="thumbnail">
+                    <div class="caption">
+                      <h3>Climate</h3>
+                      <p>Darjeeling has a temperate climate with wet summers
+                        caused by monsoon rains.The annual mean maximum
+                        temperature is 14.9 °C (58.8 °F) while the mean minimum
+                        temperature is 8.9 °C (48.0 °F), with monthly mean
+                        temperatures ranging from 6 to 18 °C (43 to 64 °F). The
+                        lowest temperature recorded was −5 °C (23 °F) on 11
+                        February 1905.The average annual precipitation is 309.2
+                        cm (121.7 in), with an average of 126 days of rain in a
+                        year. The highest rainfall occurs in July.[30][31] The
+                        heavy and concentrated rainfall that is experienced in
+                        the region, aggravated by deforestation and haphazard
+                        planning, often causes devastating landslides, leading
+                        to loss of life and property. Though not very common,
+                        but the town receives snow at least once during two
+                        winter months of December and January.</p>
+                    </div>
+                    <p> </p>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col">
-              <div class="thumbnail">
-                <div class="caption">
-                  <h3>Culture</h3>
-                  <p>The culture of Darjeeling, India, is quite diverse and
-                    unique. The two predominant religions are Hinduism and
-                    Vajrayana Buddhism. Dashain, Tihar, Buddha Jayanti,
-                    Christmas, Holi, Ram Navami, etc. are the main festivals.
-                    Besides, the diverse ethnic populace of the town also
-                    celebrates several local festivals. Buddhist ethnic groups
-                    celebrate new year called Losar in January/February, Maghe
-                    Sankranti, Chotrul Duchen, and Tendong Lho Rumfaat. Deusi
-                    and Bhaileni are songs performed by men and women,
-                    respectively, during the festival of Tihar. All these
-                    provide a "regional distinctness" of Darjeeling's local
-                    culture from the rest of India. </p>
-                </div>
-                <p> </p>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col">
-              <div class="thumbnail">
-                <div class="caption">
-                  <h3>Climate</h3>
-                  <p>Darjeeling has a temperate climate with wet summers caused
-                    by monsoon rains.The annual mean maximum temperature is 14.9
-                    °C (58.8 °F) while the mean minimum temperature is 8.9 °C
-                    (48.0 °F), with monthly mean temperatures ranging from 6 to
-                    18 °C (43 to 64 °F). The lowest temperature recorded was −5
-                    °C (23 °F) on 11 February 1905.The average annual
-                    precipitation is 309.2 cm (121.7 in), with an average of 126
-                    days of rain in a year. The highest rainfall occurs in
-                    July.[30][31] The heavy and concentrated rainfall that is
-                    experienced in the region, aggravated by deforestation and
-                    haphazard planning, often causes devastating landslides,
-                    leading to loss of life and property. Though not very
-                    common, but the town receives snow at least once during two
-                    winter months of December and January.</p>
-                </div>
-              </div>
-              <p> </p>
-            </div>
-          </div>
+          
         </div>
         <footer class="text-center">
           <div class="row">
