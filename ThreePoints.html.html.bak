@@ -54,11 +54,11 @@
     <div class="container" style=" width:100%">
       <div class="row">
         <div class="packagesBorder col-md-12">
-          <div class="container"> <img src="images/darjeeling.png" alt="mount"
+          <div class="container"> <img src="images/darjeeling.jpg" alt="mount"
 
               style=" width:100%">
             <div class="centered">
-              <h1>THREEPOINTSPACKAGE</h1>
+              <h1>THREE POINTS TOUR PACKAGE</h1>
             </div>
           </div>
           <br>
@@ -73,7 +73,6 @@
     </div>
     <div class="tab-content">
       <div id="home" class="tab-pane fade in active col-md-offset-1">
-        <h3>Places</h3>
         <ol>
           <li>
             <h4>Rock Garden</h4>
@@ -106,7 +105,9 @@
           </li>
         </ol>
       </div>
-      <div id="pricingandbooking" class="tab-pane fade"> <iframe src="https://www.sagenda.net/Frontend/5b371c5a1ae6cc6e486db1b3?retrieveFromCookies=False"
+      <div id="pricingandbooking" class="tab-pane fade col-md-offset-1"> <iframe
+
+          src="https://www.sagenda.net/Frontend/5b371c5a1ae6cc6e486db1b3?retrieveFromCookies=False"
 
           allowtransparency="true" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-top-navigation allow-scripts allow-forms"
 
