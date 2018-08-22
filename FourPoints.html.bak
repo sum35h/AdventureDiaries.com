@@ -73,26 +73,54 @@
     </div>
     <div class="tab-content">
       <div id="home" class="tab-pane fade in active col-md-offset-1">
-        <h3>Places</h3>
         <ol>
           <li>
             <h4>Tiger Hill</h4>
-            <p> Tiger hill 21590m is located in Darjeeling, in the Indian State of West Bengal an is the summit of Ghoom the highest railway station in the Darjeeling Himalayan Railway-a UNESCO World Heritage Site.IT has a panoramic view of Mount Everest and Mount Kanchenjunga together.It is 11km from the town of Darjeeling and can be reached either by taxi or by a small hike through Chowrasta,Jorebangla and then climbing up the incline to the summit</p>
+            <p> Tiger hill 21590m is located in Darjeeling, in the Indian State
+              of West Bengal an is the summit of Ghoom the highest railway
+              station in the Darjeeling Himalayan Railway-a UNESCO World
+              Heritage Site.IT has a panoramic view of Mount Everest and Mount
+              Kanchenjunga together.It is 11km from the town of Darjeeling and
+              can be reached either by taxi or by a small hike through
+              Chowrasta,Jorebangla and then climbing up the incline to the
+              summit</p>
           </li>
           <li>
             <h4>Sinchel lake and Wildlife Scanctuary</h4>
-            <p>It was setup in 1915in the Darjeeling district of West Bangal, India.It is one of the oldest wildlife sanctuaries of india.It covers an area of 38.6 sq. km.T he elevation ranges from 1500to 2600m .High altitude animals such as barking deer, wild pig, Himalayan black bears, lepord,jungle cat, common rhesus monkey,Himalayan flying squirrel,etc are found here.The sanctuary is also rich in bird life and has two beautiful lakes.</p>
+            <p>It was setup in 1915in the Darjeeling district of West Bangal,
+              India.It is one of the oldest wildlife sanctuaries of india.It
+              covers an area of 38.6 sq. km.T he elevation ranges from 1500to
+              2600m .High altitude animals such as barking deer, wild pig,
+              Himalayan black bears, lepord,jungle cat, common rhesus
+              monkey,Himalayan flying squirrel,etc are found here.The sanctuary
+              is also rich in bird life and has two beautiful lakes.</p>
           </li>
           <li>
             <h4>Ghoom Monastry</h4>
-            <p>Old Ghoom Monastery is the popular name of Yiga Choeling.The monastery belongs to the Gelukpa  or the Yellow Hat sect and is known for its 15feer high statue of Maitreya Buddha. The external structure of the building was established in 1850 by the Mongolian astrologer and monk  Sherab Gyatso, who was the head of monastery at 1905.</p>
+            <p>Old Ghoom Monastery is the popular name of Yiga Choeling.The
+              monastery belongs to the Gelukpa or the Yellow Hat sect and is
+              known for its 15feer high statue of Maitreya Buddha. The external
+              structure of the building was established in 1850 by the Mongolian
+              astrologer and monk Sherab Gyatso, who was the head of monastery
+              at 1905.</p>
           </li>
-          <h4>Batasia Loop</h4>
-            <p>The Batasia loop is a spiral railway created to lower the gradient of ascent of the Darjeeling Himilayan Railway in Darjeeling.At this point the track spirals around itself through a tunnel an over a hilltop.It as commissioned in 1919.There I no better place to get a 360 degree view of Darjeeling’slandscape including the hill town and the sow covered peaks of the Eastern Himalayas with the majestic Kanchenjunga on one side.All this from the middle of a lovely flowering garden around which the toy train track is laid.</p>
+          <li>
+            <h4>Batasia Loop</h4>
+            <p>The Batasia loop is a spiral railway created to lower the
+              gradient of ascent of the Darjeeling Himilayan Railway in
+              Darjeeling.At this point the track spirals around itself through a
+              tunnel an over a hilltop.It as commissioned in 1919.There I no
+              better place to get a 360 degree view of Darjeeling’slandscape
+              including the hill town and the sow covered peaks of the Eastern
+              Himalayas with the majestic Kanchenjunga on one side.All this from
+              the middle of a lovely flowering garden around which the toy train
+              track is laid.</p>
           </li>
         </ol>
       </div>
-      <div id="pricingandbooking" class="tab-pane fade col-md-offset-1"> <iframe src="https://www.sagenda.net/Frontend/5b371c5a1ae6cc6e486db1b3?retrieveFromCookies=False"
+      <div id="pricingandbooking" class="tab-pane fade col-md-offset-1"> <iframe
+
+          src="https://www.sagenda.net/Frontend/5b371c5a1ae6cc6e486db1b3?retrieveFromCookies=False"
 
           allowtransparency="true" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-top-navigation allow-scripts allow-forms"
 
