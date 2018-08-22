@@ -69,7 +69,7 @@
                   <h4>Darjeeling Sightseeing : 3 points tour </h4>
                   <h6>Rock Garden, Ganga Maya Park, Japanese Peace Pagoda</h6>
                 </div>
-                <p> <button class="btn btn-primary btn" onclick="window.location='ThreePoints.html';">
+                <p> <button class="btn btn-primary btn" onclick="window.location='sidra.html';">
                     More Info </button> </p>
               </div>
             </div>
@@ -81,7 +81,7 @@
                   <h6>Tiger Hill,Senchell Lake &amp; Wildlife Scanctuary, Ghoom
                     Monastry, Batasay Loop</h6>
                 </div>
-                <p> <button class="btn btn-primary btn" onclick="window.location='FourPoints.html';">
+                <p> <button class="btn btn-primary btn" onclick="window.location='sidra.html';">
                     More Info </button> </p>
               </div>
             </div>
@@ -93,7 +93,7 @@
                   <h6>Darjeeling Zoo,Chitray T.E, Tibetan Refugee
                     Center,Darjeeling Ropeway,Happy Valley T.E</h6>
                 </div>
-                <p> <button class="btn btn-primary btn" onclick="window.location='FivePoints.html';">
+                <p> <button class="btn btn-primary btn" onclick="window.location='sidra.html';">
                     More Info </button> </p>
               </div>
             </div>

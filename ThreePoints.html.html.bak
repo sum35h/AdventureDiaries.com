@@ -54,46 +54,66 @@
     <div class="container" style=" width:100%">
       <div class="row">
         <div class="packagesBorder col-md-12">
-          <div class="container"> <img src="images/tent2.jpeg" alt="mount" style=" width:100%">
+          <div class="container"> <img src="images/darjeeling.png" alt="mount"
+
+              style=" width:100%">
             <div class="centered">
-              <h1>SIDRAPONG TREK</h1>
+              <h1>THREEPOINTSPACKAGE</h1>
             </div>
           </div>
           <br>
         </div>
       </div>
     </div>
-    <ul class="nav nav-tabs col-md-offset-1">
-      <li class="active"><a data-toggle="tab" href="#home">Trip Overview</a></li>
-      <li><a data-toggle="tab" href="#it">Itenerary</a></li>
-      <li><a data-toggle="tab" href="#pricingandbooking">Pricing and Booking</a></li>
-      <li><a data-toggle="tab" href="#randr">Reviews and Ratings</a></li>
-    </ul>
+    <div class="col-md-offset-1">
+      <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#home">Places</a></li>
+        <li><a data-toggle="tab" href="#pricingandbooking">Pricing and Booking</a></li>
+      </ul>
+    </div>
     <div class="tab-content">
       <div id="home" class="tab-pane fade in active col-md-offset-1">
-        <h3>trip overview</h3>
-        <p>Some content.</p>
+        <h3>Places</h3>
+        <ol>
+          <li>
+            <h4>Rock Garden</h4>
+            <p> The Rock Garden at the Chunnu Summer Falls is a showpiece meant
+              to lure people of Darjeeling after the political agitations
+              disrupted tourism in the 1980s.On the way towards the Rock Garden
+              you will notice the position of the clouds.You will see them
+              somewhere down in the deep gorge ,and as you descend quickly you
+              will see them rising above you. It’s just simply spectacular. </p>
+          </li>
+          <li>
+            <h4>Ganga Maya Park</h4>
+            <p>About 3km further down is the Gangamaya park. Once you enter the
+              premises of the park, you can find yourself at the foothills of
+              mountains that come from all sides.Yes, this is a valley
+              surrounded by hills and having a natural water stream flowing
+              through it.There are beautiful small bridges built over the stream
+              from where you can look at the crystal clear water flowing over
+              the rocky bed, a beautiful lake, flower gardens ,trees and
+              shrubbery.</p>
+          </li>
+          <li>
+            <h4>Japanese Peace Pagoda</h4>
+            <p>It is one the Peace Pagodas designed to provide a focus for
+              people of all races and creeds to help unite them in their search
+              for world peace. Like most of the Peace Pagodas, it was built
+              under the guidance of Nichidatsu Fujii (A Buddhist monk from Japan
+              and the founder the the Nipponzan-Myōhōji Buddhist Order).It
+              housed the four avatars of Buddha including Maitreya Buddha.</p>
+          </li>
+        </ol>
       </div>
-      <div id="it" class="tab-pane fade col-md-offset-1">
-        <h3>stuff</h3>
-        <p>Some content .</p>
-      </div>
-      <div id="pricingandbooking" class="tab-pane fade col-md-offset-1"> <iframe
-
-          src="https://www.sagenda.net/Frontend/5b371c5a1ae6cc6e486db1b3?retrieveFromCookies=False"
+      <div id="pricingandbooking" class="tab-pane fade"> <iframe src="https://www.sagenda.net/Frontend/5b371c5a1ae6cc6e486db1b3?retrieveFromCookies=False"
 
           allowtransparency="true" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-top-navigation allow-scripts allow-forms"
 
           frameborder="0" height="1200" width="1050"></iframe>
         <!-- <form action="/action_page.php">
-							<input class="form-control" type="text" placeholder="Name"><br>							<input class="form-control" type="text" placeholder="Email Address"><br>							<input class="form-control" type="text" placeholder="Contact Number"><br>							<input class="form-control" type="text" placeholder="When would you like to go?"><br>
-							<input class="form-control" type="text" placeholder="Number of people travelling"><br>   	  <button type="submit" class="btn btn-default">Submit</button>
-</form> --> </div>
-      <div id="randr" class=" tab-pane fade col-md-offset-1">
-       
-        <iframe src="https://www.powr.io/plugins/reviews/view?unique_label=32673870_1530333354&amp;external_type=iframe"
-                 
-          frameborder="0" height="1000" width="100%" scrolling="yes"></iframe> </div>
+							<input class="form-control" type="text" placeholder="Name"><br>							<input class="form-control" type="text" placeholder="Email Address"><br>							<input class="form-control" type="text" placeholder="Contact Number"><br>							<input class="form-control" type="text" placeholder="When would you like to go?"><br>							<input class="form-control" type="text" placeholder="Number of people travelling"><br>   	  <button type="submit" class="btn btn-default">Submit</button></form> -->
+      </div>
       <footer class="text-center">
         <div class="container">
           <div class="row"> </div>
